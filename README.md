@@ -14,7 +14,7 @@ init used to create new repo
 7. git push -u origin main (-u flag is used to alis repo name)
 
 ==============
-Branch Command
+Commands Branch  
 =================
 
 git branch (to check banches)
