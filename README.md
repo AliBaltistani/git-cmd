@@ -24,4 +24,4 @@ Merging Code
  2. git merge branch_name
 
 # Way 2 (Create Pull Request)
- 1.
+ 1. Create PR
