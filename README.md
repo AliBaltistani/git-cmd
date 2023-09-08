@@ -12,3 +12,13 @@ init used to create new repo
 5. git branch -M main (to rename main)
 6. git push origin main  or (branch name)
 7. git push -u origin main (-u flag is used to alis repo name)
+
+==============
+Branch Command
+=================
+
+git branch (to check banches)
+git branch -M new_name (to change Branch name)
+git checkout feature1_branch (to shift branch)
+git checkout -b new_branchName (to create new branch)
+git -d branch_name (to delete branch)
