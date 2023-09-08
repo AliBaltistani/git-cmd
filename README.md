@@ -14,6 +14,17 @@ init used to create new repo
 7. git push -u origin main (-u flag is used to alis repo name)
 
 ==============
+Branch Command
+=================
+
+git branch (to check banches)
+git branch -M new_name (to change Branch name)
+git checkout feature1_branch (to shift branch)
+git checkout -b new_branchName (to create new branch)
+git -d branch_name (to delete branch)
+
+
+==============
 ================
 Merging Code
 =============
@@ -24,4 +35,4 @@ Merging Code
  2. git merge branch_name
 
 # Way 2 (Create Pull Request)
- 1. Create PR
+ 1.
