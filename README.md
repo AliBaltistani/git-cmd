@@ -36,3 +36,11 @@ Merging Code
 
 # Way 2 (Create Pull Request)
  1.
+
+==============
+================
+Merging Conflicts
+=============
+=================
+ 1. git diff branch_name
+ 2. git merge branch_name
