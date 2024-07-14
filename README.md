@@ -1,3 +1,18 @@
+
+# git-tutorial
+all about git and GitHub notes.
+
+git commands
+1. git config --global user.name "AliBaltistani"
+2. git config --global user.email "muhammadalid15@gmail.com"
+3. git config ls
+4. ls -a
+5. git status 
+6. git clone https://....(repo url)
+7. git add file_name
+8. git add . (for all changed files)
+9. git push origin main (publish into main branch)
+
 ==============
 ================
 Init Command
